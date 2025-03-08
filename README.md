@@ -5,6 +5,7 @@
 ### 1. Database Connectivity
 - Types of Drivers for connection, Connection Example. CRUD operations using Database, Configuring various types of drivers for Java Database Connectivity
 -  MVC Model for project development, Sequence, Dual table, Date type management in Java.
+-  https://www.youtube.com/watch?v=AHFBPxWebFQ |Connect Java with Mysql Database | Java JDBC | Java Database connectivity | JDBC MySql | 
 
 ![image](https://github.com/user-attachments/assets/33f3425d-2a12-4ffd-a63f-ef39e4942849)
 
