@@ -6,7 +6,7 @@
 - Types of Drivers for connection, Connection Example. CRUD operations using Database, Configuring various types of drivers for Java Database Connectivity
 -  MVC Model for project development, Sequence, Dual table, Date type management in Java.
 
-![image](https://github.com/user-attachments/assets/37ef981b-ae0f-4805-8135-fddcb5548afe)
+![image](https://github.com/user-attachments/assets/33f3425d-2a12-4ffd-a63f-ef39e4942849)
 
   
 ## 📌 Experiment 7: Create Java applications with JDBC for database connectivity, CRUD operations, and MVC architecture.
